@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-  <h3>Main | 🐣</h3>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrsxturn&repo=Empire&bg_color=0B0B0B&show_owner=true&border_color=2E2E2E&title_color=FF0051&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
   <h3><b>Links | 🔗</b></h3>
     
    <a href="https://open.spotify.com/user/zzykeijuuo3t2kpl6grmgo6gy" target="blank_">
@@ -21,6 +15,12 @@
 <h3>Languages | 🔱</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsxturn&bg_color=0B0B0B&border_color=2E2E2E&title_color=FF0051&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+  <h3>Main | 🐣</h3>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrsxturn&repo=Empire&bg_color=0B0B0B&show_owner=true&border_color=2E2E2E&title_color=FF0051&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
   <h3>The Spotify | 🎶</h3>
