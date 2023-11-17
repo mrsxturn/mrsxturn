@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-  
-> <h3>Welcome To | <b>Saturn Empire</b></h3>
-
-<hr>
 
   <h3><b>Network Links | 🔗</b></h3>
     
